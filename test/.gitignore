@@ -1,0 +1,8 @@
+# Ignore executables
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore generated libraries
+*.a
